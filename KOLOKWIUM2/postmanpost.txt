@@ -1,0 +1,12 @@
+{
+    "Title": "wystawa dodana z posta",
+    "GalleryName": "galeria w wwa",
+    "StartDate": "2024-05-01",
+    "EndDate": "2024-09-01",
+    "Artworks": [
+    {
+        "ArtworkId": 1,
+        "InsuranceValue": 1000000.00
+    }
+    ]
+}
